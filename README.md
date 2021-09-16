@@ -1,5 +1,5 @@
 # Excel Processing
- > This project utilizes Exceljs npm library to process multuple sheets
+ > This project utilizes Exceljs npm library to process multuple excel sheets
 
 
 ## Features includes
